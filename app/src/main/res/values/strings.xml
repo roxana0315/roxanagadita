@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DAMEP_MarcaniIslaPascacio</string>
+    <string name="txtnombreapellido" />
+    <string name="txtcorreo" />
+    <string name="txtclave" />
+    <string name="txttelefono" />
+    <string name="txtfecha" />
+</resources>
