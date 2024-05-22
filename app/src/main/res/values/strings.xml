@@ -5,4 +5,8 @@
     <string name="txtclave" />
     <string name="txttelefono" />
     <string name="txtfecha" />
+    <string name="zonaResidenciaValue">ResidenciaValue</string>
+    <string name="personaViviendaValue" />
+    <string name="promedioFamiliaValue" />
+    <string name="opinionSobreBonosValue" />
 </resources>
